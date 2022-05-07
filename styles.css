@@ -1,0 +1,37 @@
+body {
+    background-color: #E8F9FD;
+    text-align: center;
+    font-family: 'Asap Condensed', sans-serif;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.imgandinfo {
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    color: rgb(22, 76, 83);
+}
+
+.content {
+    text-align: left;
+    margin: 0 45px 0 45px;
+}
+
+img {
+    border-radius: 1.25rem;
+    box-shadow: inset 0 0 2000px #020752;
+}
+
+.quote{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-weight: normal;
+}
+
+.heading {
+    font-family: 'Volkhov', serif;
+    font-weight: bold;
+    color:chocolate;
+}
+
